@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Hi there, I'm [YASH](https://github.com/YASHBRO)
+<p align-"center">
+<img class="centrer" src="https://sdk.bitmoji.com/render/panel/2af24209-ea90-4912-9223-4c54c650559a-23c927d9-4799-4bc6-9129-0d51a8a995de-v1.png?transparent=1&palette=1" width="150px" alt="Hiiii"> 
+</p>
 
-You can use the [editor on GitHub](https://github.com/YASHBRO/YASHBRO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br/>
 
-### Markdown
+### About me:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### I'm a Student, Programmer and Developer!
+- I’m currently learning and practicing AI 🤖
+- Like to participate in competitive coding contests ⌨
+- 2020 Goals: To master AI/ML/DL and develop usefull projects using AI 😄
+- Fun fact: Love listening to music(pop,edm,acoustic) 🎵
+<br />
 
-```markdown
-Syntax highlighted code block
+---------------------
 
-# Header 1
-## Header 2
-### Header 3
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YASHBRO&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Yash's github stats" />
+</p>
 
-- Bulleted
-- List
+<br/>
 
-1. Numbered
-2. List
+#### Connect with me 🤝 :
+[<img align="left" alt="Yash's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >][linkedin]
+[<img align="left" alt="Yash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" >][instagram]
+[<img align="left" alt="Yash's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" >][whatsapp]
+[<img align="left" alt="Yash's Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" >][snapchat]
+[<img alt="Yash's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" > *My Discord Server*][discord]
 
-**Bold** and _Italic_ and `Code` text
+---------------------
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Visitors
+[![VisitCount](http://hits.dwyl.com/YASHBRO/YASHBRO.svg)](http://hits.dwyl.com/YASHBRO/YASHBRO)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YASHBRO/YASHBRO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[instagram]: https://www.instagram.com/yash__joglekar
+[linkedin]: https://www.linkedin.com/in/yash-joglekar-08a4161b4/
+[discord]: https://discord.gg/hUVNsxC
+[whatsapp]: https://wa.me/917587145654
+[snapchat]: https://www.snapchat.com/add/yashjoglekar
