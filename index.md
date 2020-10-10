@@ -1,8 +1,6 @@
 # Hi there, I'm [YASH](https://github.com/YASHBRO)
-<p align-"center">
-<img class="centrer" src="https://sdk.bitmoji.com/render/panel/2af24209-ea90-4912-9223-4c54c650559a-23c927d9-4799-4bc6-9129-0d51a8a995de-v1.png?transparent=1&palette=1" width="150px" alt="Hiiii"> 
-</p>
 
+<img class="centrer" src="https://sdk.bitmoji.com/render/panel/2af24209-ea90-4912-9223-4c54c650559a-23c927d9-4799-4bc6-9129-0d51a8a995de-v1.png?transparent=1&palette=1" width="150px" alt="Hiiii"> 
 
 <br/>
 
