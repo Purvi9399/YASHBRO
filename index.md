@@ -23,9 +23,13 @@
 
 #### Connect with me 🤝 :
 [<img align="left" alt="Yash's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >][linkedin]
+
 [<img align="left" alt="Yash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" >][instagram]
+
 [<img align="left" alt="Yash's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" >][whatsapp]
+
 [<img align="left" alt="Yash's Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" >][snapchat]
+
 [<img alt="Yash's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" > *My Discord Server*][discord]
 
 ---------------------
